@@ -17,3 +17,8 @@ FlutterLibrary offers a collection of premium components and templates for devs 
 | [Flutter E-Commerce App Template](https://www.flutterlibrary.com/templates/e-commerce-app) | [Flutter Responsive Admin/Dashboard](https://www.flutterlibrary.com/templates/responsive-admin-dashboard) |
 | [![Flutter Restaurant/Food Delivery App Template](/assets/flutter%20food%20app.webp)](https://www.flutterlibrary.com/templates/restaurant-food-delivery-app) | [![Flutter Chat/Message App Template](/assets/Chat%20App.webp)](https://www.flutterlibrary.com/templates/chat-message-app) |
 | [Flutter Restaurant/Food Delivery App Template](https://www.flutterlibrary.com/templates/restaurant-food-delivery-app) | [Flutter Chat/Message App Template](https://www.flutterlibrary.com/templates/chat-message-app) |
+
+
+## How to use Flutter components
+Uses of our Flutter Components as simple as copying and pasting Flutter code into your new or existing project. All our components are designed to be easily reusable in any project. Check how easy it is 👇
+[![How to use Flutter Components from Flutter Library](/assets/Copy%20&%20Past%20Flutter%20compoents.gif)](https://flutterlibrary.com)
