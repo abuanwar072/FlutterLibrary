@@ -8,9 +8,13 @@ FlutterLibrary offers a collection of premium components and templates for devs 
 
 - [Flutter Templates](https://www.flutterlibrary.com/templates)
 - [Flutter Components](https://www.flutterlibrary.com/screens)
-- [Flutter Articles (comming soon)]
+- Flutter Articles (comming soon)
 
 ## Top Flutter Templates
 | [![Flutter E-Commerce App Template](/assets/Flutter-Shop-Thumbnail.webp)](https://www.flutterlibrary.com/templates/e-commerce-app) | [![Flutter Responsive Admin/Dashboard](/assets/Flutter%20dashboard.webp)](https://www.flutterlibrary.com/templates/responsive-admin-dashboard) |
 |:--:|:--:|
 | [Flutter E-Commerce App Template](https://www.flutterlibrary.com/templates/e-commerce-app) | [Flutter Responsive Admin/Dashboard](https://www.flutterlibrary.com/templates/responsive-admin-dashboard) |
+
+| [![Flutter Restaurant/Food Delivery App Template](/assets/flutter%20food%20app.webp)](https://www.flutterlibrary.com/templates/restaurant-food-delivery-app) | [![Flutter Chat/Message App Template](/assets/Chat%20App.webp)](https://www.flutterlibrary.com/templates/chat-message-app) |
+|:--:|:--:|
+| [Flutter Restaurant/Food Delivery App Template](https://www.flutterlibrary.com/templates/restaurant-food-delivery-app) | [Flutter Chat/Message App Template](https://www.flutterlibrary.com/templates/chat-message-app) |
