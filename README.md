@@ -13,4 +13,4 @@ FlutterLibrary offers a collection of premium components and templates for devs 
 ## Top Flutter Templates
 | [![Flutter E-Commerce App Template](/assets/Flutter-Shop-Thumbnail.webp)](https://www.flutterlibrary.com/templates/e-commerce-app) | [![Flutter Responsive Admin/Dashboard](/assets/Flutter%20dashboard.webp)](https://www.flutterlibrary.com/templates/responsive-admin-dashboard) |
 |:--:|:--:|
-| [Template 1](https://flutterlibrary.com/template1) | [Template 2](https://flutterlibrary.com/template2) |
+| [Flutter E-Commerce App Template](https://www.flutterlibrary.com/templates/e-commerce-app) | [Flutter Responsive Admin/Dashboard](https://www.flutterlibrary.com/templates/responsive-admin-dashboard) |
